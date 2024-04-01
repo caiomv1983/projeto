@@ -36,11 +36,13 @@
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Requisitos Funcionais
+
 Os professores devem ser capazes de registrar a presença dos alunos em duas ocasiões durante o dia letivo.
 O sistema deve gerar relatórios de presenças agrupados por diferentes critérios.
 Notificações automáticas devem ser enviadas aos pais/responsáveis em caso de frequência insuficiente.
 O sistema deve ser acessível via navegador web e dispositivos móveis.
 Requisitos Não-Funcionais
+
 O sistema deve garantir a segurança dos dados dos alunos e professores.
 Deve ter bom desempenho, mesmo com um grande volume de dados.
 A interface do usuário deve ser intuitiva e fácil de usar.&gt;*
