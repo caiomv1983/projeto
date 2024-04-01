@@ -3,10 +3,9 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Sistema de Controle de Presenças da Escola Infinito&gt;*
 </center></font>
 
-Projeto: Sistema de Controle de Presenças da Escola Infinito
 
 **Conteúdo**
 
