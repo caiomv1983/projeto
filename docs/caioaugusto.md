@@ -50,11 +50,11 @@ A interface do usuário deve ser intuitiva e fácil de usar.*
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![DiagramaAtividades](https://github.com/caiomv1983/projeto/assets/125095286/9be471d5-5816-4ce9-aca9-da757fb51e29)
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![DiagramaCasos](https://github.com/caiomv1983/projeto/assets/125095286/576c9473-e847-41c9-adc7-dfdc1ba98836)
 
 # Descrição dos Casos de Uso
 
@@ -70,19 +70,19 @@ Se a frequência for insuficiente, o sistema envia uma notificação automática
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![DiagramaSequencia](https://github.com/caiomv1983/projeto/assets/125095286/76aeab92-51d8-4caf-9fcf-99b4d3d5402c)
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![DiagramaClasses](https://github.com/caiomv1983/projeto/assets/125095286/d2a0fc9a-b01a-4428-9a8a-0f8537e8c67b)
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![DiagramaEstados](https://github.com/caiomv1983/projeto/assets/125095286/9f10c7de-215e-4aa4-8dc5-88a3efdbb8a2)
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![DiagramaImplantação](https://github.com/caiomv1983/projeto/assets/125095286/566bbab3-840a-4612-95f8-ee633ff38aca)
 
 # Referências
 
