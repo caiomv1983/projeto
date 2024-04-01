@@ -32,10 +32,10 @@
 
 # Descrição do Projeto
 
-*&lt;O projeto consiste no desenvolvimento de um sistema de controle de presenças para a Escola Infinito. O sistema automatizará o registro de presenças dos alunos, facilitando a geração de relatórios e o envio de notificações aos pais/responsáveis em caso de frequência insuficiente.&gt;*
+O projeto consiste no desenvolvimento de um sistema de controle de presenças para a Escola Infinito. O sistema automatizará o registro de presenças dos alunos, facilitando a geração de relatórios e o envio de notificações aos pais/responsáveis em caso de frequência insuficiente.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*Requisitos Funcionais
+Requisitos Funcionais
 
 Os professores devem ser capazes de registrar a presença dos alunos em duas ocasiões durante o dia letivo.
 O sistema deve gerar relatórios de presenças agrupados por diferentes critérios.
