@@ -83,4 +83,4 @@ Se a frequência for insuficiente, o sistema envia uma notificação automática
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+
