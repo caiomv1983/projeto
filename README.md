@@ -21,7 +21,7 @@ Release 1: https://github.com/caiomv1983/projeto/releases/tag/Releases
 
 Release 2: https://github.com/caiomv1983/projeto/releases/tag/Release2
 
-Release 3:
+Release 3: https://github.com/caiomv1983/projeto/releases/tag/Release3
 
 Release 4: https://github.com/caiomv1983/projeto/releases/tag/Release4
 
