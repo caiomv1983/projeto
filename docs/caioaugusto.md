@@ -58,9 +58,11 @@ A interface do usuário deve ser intuitiva e fácil de usar.*
 *&lt;1º Registrar Presença:
 O professor seleciona a turma e marca a presença dos alunos.
 O sistema registra a presença e atualiza os dados do aluno.
+
 2ºGerar Relatório de Presenças:
 O administrador seleciona os critérios de agrupamento do relatório.
 O sistema gera o relatório de presenças conforme os critérios selecionados.
+
 3ºEnviar Notificação Automática:
 O sistema verifica a frequência dos alunos.
 Se a frequência for insuficiente, o sistema envia uma notificação automática aos pais/responsáveis.&gt;*
