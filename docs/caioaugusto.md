@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Sistema de Controle de Presenças da Escola Infinito&gt;*
+&lt;Sistema de Controle de Presenças da Escola Infinito&lt;
 </center></font>
 
 
