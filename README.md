@@ -18,7 +18,10 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 # Releases
 
 Release 1: https://github.com/caiomv1983/projeto/releases/tag/Releases
-Release 2:
+
+Release 2: https://github.com/caiomv1983/projeto/releases/tag/Release2
+
 Release 3:
+
 Release 4:
 
