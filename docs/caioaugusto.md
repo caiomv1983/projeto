@@ -67,19 +67,19 @@ Se a frequência for insuficiente, o sistema envia uma notificação automática
 
 # Diagrama de Sequência
 
-![DiagramaSequencia](https://github.com/caiomv1983/projeto/assets/125095286/76aeab92-51d8-4caf-9fcf-99b4d3d5402c)
+
 
 # Diagrama de Classes
 
-![DiagramaClasses](https://github.com/caiomv1983/projeto/assets/125095286/d2a0fc9a-b01a-4428-9a8a-0f8537e8c67b)
+
 
 # Diagrama de Estados
 
-![DiagramaEstados](https://github.com/caiomv1983/projeto/assets/125095286/9f10c7de-215e-4aa4-8dc5-88a3efdbb8a2)
+
 
 # Diagrama de Implantação
 
-![DiagramaImplantação](https://github.com/caiomv1983/projeto/assets/125095286/566bbab3-840a-4612-95f8-ee633ff38aca)
+
 
 # Referências
 
