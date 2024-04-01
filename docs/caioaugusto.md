@@ -27,22 +27,23 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Caio Augusto Homem de Melo Monteiro dos Santos
 
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;O projeto consiste no desenvolvimento de um sistema de controle de presenças para a Escola Infinito. O sistema automatizará o registro de presenças dos alunos, facilitando a geração de relatórios e o envio de notificações aos pais/responsáveis em caso de frequência insuficiente.&gt;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+*&lt;Requisitos Funcionais
+Os professores devem ser capazes de registrar a presença dos alunos em duas ocasiões durante o dia letivo.
+O sistema deve gerar relatórios de presenças agrupados por diferentes critérios.
+Notificações automáticas devem ser enviadas aos pais/responsáveis em caso de frequência insuficiente.
+O sistema deve ser acessível via navegador web e dispositivos móveis.
+Requisitos Não-Funcionais
+O sistema deve garantir a segurança dos dados dos alunos e professores.
+Deve ter bom desempenho, mesmo com um grande volume de dados.
+A interface do usuário deve ser intuitiva e fácil de usar.&gt;*
 
 # Diagrama de Atividades
 
@@ -54,7 +55,15 @@
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+*&lt;1º Registrar Presença:
+O professor seleciona a turma e marca a presença dos alunos.
+O sistema registra a presença e atualiza os dados do aluno.
+2ºGerar Relatório de Presenças:
+O administrador seleciona os critérios de agrupamento do relatório.
+O sistema gera o relatório de presenças conforme os critérios selecionados.
+3ºEnviar Notificação Automática:
+O sistema verifica a frequência dos alunos.
+Se a frequência for insuficiente, o sistema envia uma notificação automática aos pais/responsáveis.&gt;*
 
 # Diagrama de Sequência
 
