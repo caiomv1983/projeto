@@ -3,7 +3,7 @@
 
 # Projeto: Sistema de Controle de Presenças da Escola Infinito
 
-# Grupo: Sistema Escolar Educa
+# Grupo: Sistema Escola Infinita
 
 # Descrição
 
