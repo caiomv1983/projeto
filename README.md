@@ -11,7 +11,7 @@
 
 # Documentação
 
-Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em *(https://github.com/caiomv1983/projeto/blob/master/docs/caioaugusto.md)**
+Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em https://github.com/caiomv1983/projeto/blob/master/docs/caioaugusto.md
 
 
 
