@@ -69,19 +69,19 @@ Se a frequência for insuficiente, o sistema envia uma notificação automática
 
 # Diagrama de Sequência
 
-
+![DiagramaClasses](https://github.com/caiomv1983/projeto/edit/master/docs/caioaugusto.md)
 
 # Diagrama de Classes
 
-
+![DiagramaClasses](https://github.com/caiomv1983/projeto/edit/master/docs/caioaugusto.md)
 
 # Diagrama de Estados
 
-
+![DiagramaEstados](https://github.com/caiomv1983/projeto/edit/master/docs/caioaugusto.md)
 
 # Diagrama de Implantação
 
-
+![DiagramaImplantação](https://github.com/caiomv1983/projeto/edit/master/docs/caioaugusto.md)
 
 # Referências
 
