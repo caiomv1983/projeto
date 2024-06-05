@@ -85,4 +85,5 @@ Se a frequência for insuficiente, o sistema envia uma notificação automática
 
 # Referências
 
-
+PlantUML Documentation - https://plantuml.com/
+Draw.io (diagrams.net) - https://app.diagrams.net/
